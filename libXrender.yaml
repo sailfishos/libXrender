@@ -1,0 +1,21 @@
+Name: libXrender
+Summary: X.Org X11 libXrender runtime library
+Version: 0.9.5
+Release: 0
+Group: System/Libraries
+License: MIT
+URL: http://www.x.org
+Sources:
+    - http://xorg.freedesktop.org/releases/individual/lib/%{name}-%{version}.tar.bz2
+
+PkgConfigBR:
+    - renderproto
+    - x11
+Configure: configure
+SubPackages:
+    - Name: devel
+      Summary: X.Org X11 libXrender development package
+      Group: System/Libraries
+      Requires:
+          - xorg-x11-filesystem
+
