@@ -1,3 +1,6 @@
+* Tue Dec 13 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.9.6
+- Update libXrender to version 0.9.6
+
 * Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 0.9.5
 - Updated with latest spectacle
 - Include YAML file in source rpm
