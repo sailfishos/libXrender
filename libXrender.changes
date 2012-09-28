@@ -1,3 +1,6 @@
+* Fri Sep 28 2012 Siteshwar Vashisht <siteshwar@gmail.com> - 0.9.7
+- Fix MER#457, update libXrender to version 0.9.7
+
 * Tue Dec 13 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.9.6
 - Update libXrender to version 0.9.6
 
